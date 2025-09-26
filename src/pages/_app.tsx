@@ -48,6 +48,7 @@ function MyApp({
               name="viewport"
               content="initial-scale=1, width=device-width"
             />
+            <meta name="google-site-verification" content="hFEZmWCBw8KhP7eQh6raFJJ4yZugAppuKYyQbOvsCyU" />
           </Head>
           <BaseDefaultSeo />
           <BaseThemeProvider initialPaletteMode={initialPaletteMode}>
